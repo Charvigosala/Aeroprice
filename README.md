@@ -2,8 +2,7 @@
 
 A fullstack flight fare prediction app. Enter your airline, route, date, and departure time — the ML model spits out an estimated ticket price in seconds.
 
-Live demo: [aeroprice-frontend.vercel.app](https://aeroprice-frontend.vercel.app)
-
+Live demo: https://aeroprice-v2.vercel.app/
 ---
 
 ## What it does
